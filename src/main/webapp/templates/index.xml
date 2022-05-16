@@ -121,7 +121,6 @@
 <template url="maps/living_beings_mind_map.xml" name="Living beings mind map" libs="general" tags="Living;beings;mind;map"/>
 <template url="maps/mind_map.xml" name="Mind map" libs="general" tags="Mind;map"/>
 <template url="maps/site_map.xml" name="Site map" libs="general" tags="Site;map"/>
-<template url="network/active_directory.xml" name="Active directory" libs="general;citrix" tags="Active;directory"/>
 <template url="network/arista.xml" name="Arista" libs="general" clibs="Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2F%2Farista.xml" tags="Arista"/>
 <template url="network/cisco_1.xml" name="Cisco 1" libs="general;cisco" tags="Cisco"/>
 <template url="network/cisco_2.xml" name="Cisco 2" libs="general;cisco" tags="Cisco"/>
